@@ -9,10 +9,10 @@ export default {
   // created() {
   //   console.log('Router object', this.$router)
   // }
-  validate (data) {
-    console.log('nuxt validate data', data);
+  validate(data) {
+    console.log('nuxt validate data', data)
 
-    return /^\d+$/.test(data.params.id);
+    return /^\d+$/.test(data.params.id)
   }
 }
 </script>

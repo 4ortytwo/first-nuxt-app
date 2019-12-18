@@ -1,5 +1,9 @@
 <template>
-<p>Please enter an ID and click the button</p>
+  <p>Please enter an ID and click the button</p>
 </template>
 
-<style></style>
+<script>
+// export default {
+//   layout: 'users'
+// }
+</script>
