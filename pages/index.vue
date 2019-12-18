@@ -1,6 +1,8 @@
 <template>
   <div class="container">
-    <a href="/users">Users</a>
+    <!-- <a href="/users">Users</a> -->
+    <nuxt-link to="/users">Users</nuxt-link>
+    <!-- <router-link href="/users">Users</router-link> -->
   </div>
 </template>
 
